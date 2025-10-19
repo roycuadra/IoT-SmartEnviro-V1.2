@@ -5,6 +5,7 @@
   <img src="./UI/UII.jpg" alt="Logs" width="330">
 </div>
 
+
 ## Features
 - **Wi-Fi Access Point:**
   - Hosts an User interface for monitoring data.
@@ -27,3 +28,7 @@
 | RCWL-0516         | GPIO5    |
 | AHT30 (I2C SDA)   | GPIO21   |
 | AHT30 (I2C SCL)   | GPIO22   |
+
+## ⚠️ Disclaimer
+
+This project is for educational and experimental purposes only. The creator is not responsible for any damage, injury, or loss caused by using this project. Always handle electronics safely and operate the device in a controlled environment.
